@@ -1,1 +1,4 @@
-./shape_predictor_68_face_landmarks.dat
+/shape_predictor_68_face_landmarks.dat
+/face-seg
+/__pycache__
+/dataset
