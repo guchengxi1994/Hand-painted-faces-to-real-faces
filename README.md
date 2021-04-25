@@ -8,7 +8,7 @@
  * @LastEditTime: 2021-04-25 11:44:49
 -->
 # PencilFace
- Convert a lined face to a real face. It is a two-phase method with [U-GAT-IT](https://github.com/znxlwm/UGATIT-pytorch). First , convert lined faces to pencil faces(short for a2b ). Then, convert pencil faces to real faces(short for b2c).
+ Convert a hand-painted face to a real face. It is a two-phase method with [U-GAT-IT](https://github.com/znxlwm/UGATIT-pytorch). First , convert lined faces to pencil faces(short for a2b ). Then, convert pencil faces to real faces(short for b2c).
 
  # Data preperation
 
